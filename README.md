@@ -114,10 +114,9 @@ ng build --configuration production
 ---
 
 ## 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Safia Farheen ZR**  
-📧 Email: safiafarheenzr@gmail.com  
-🌐 GitHub: [@Safiafarheen](https://github.com/Safiafarheen)
-
+Java Full Stack Developer | Capgemini-TNS Trained
 ---
 
